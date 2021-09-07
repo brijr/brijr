@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brdgr
+- 👀 I’m interested in web design/dev, photography, design, architecture, and interior design!
+- 🌱 I’m currently learning html, css, and java. 
+- 💞️ I’m looking to collaborate on any web based projects, hmu!
+- 📫 How to reach me : bridgertower@gmail.com
