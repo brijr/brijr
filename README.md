@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brdgr
+- 👋 Hi, I’m @brijr
 - 👀 I’m interested in web design/dev, photography, design, architecture, and interior design!
 - 🌱 I’m currently learning html, css, and java. 
 - 💞️ I’m looking to collaborate on any web based projects, hmu!
