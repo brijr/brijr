@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brijr
 - 👀 I’m interested in web design/dev, photography, design, architecture, and interior design!
-- 🌱 I’m currently learning html, css, and java. 
+- 🌱 I’m currently learning html, css, js, and ruby. 
 - 💞️ I’m looking to collaborate on any web based projects, hmu!
 - 📫 How to reach me : bridgertower@gmail.com
