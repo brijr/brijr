@@ -3,13 +3,13 @@
 
 <div id="badges">
   <a href="https://linkedin.com/in/brdgr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://devign.cc">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-blueviolet?&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/b98_io">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blueviolet?&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -39,8 +39,9 @@ This is my Front End dev portfolio!
 - Webflow
 - Figma
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijr&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijr&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brijr&theme=nord&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+![Brijr's github stats](https://github-readme-stats.vercel.app/api?username=brijr&theme=midnight-purple&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brijr&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats)
