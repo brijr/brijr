@@ -10,4 +10,4 @@ At this link you will find a bit more about me and where I am from.
 
 This is my Front End dev portfolio!
 
-My name is Bridger Tower! I am a Web Developer and Designer from Salt Lake City, UT.
+### More coming soon
