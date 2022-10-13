@@ -1,7 +1,7 @@
 # Welcome to the `readme` of Bridger Tower
 
 
-<div id="badges">
+<div id="badges" style="padding-bottom: 1rem;">
   <a href="https://linkedin.com/in/brdgr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
