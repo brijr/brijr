@@ -21,7 +21,7 @@
 
 At this link you will find a bit more about me and where I am from.
 
-## Portfolio: [b98.io](https://b98.io)
+## Portfolio: [btower.dev](https://btower.dev)
 
 This is my Front End dev portfolio!
 
