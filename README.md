@@ -1,43 +1,18 @@
-# Welcome to the `readme` of Bridger Tower
+# Bridger Tower
+### Front End Developer : Creative Technologist : Product Marketer : Brand Strategist
+
+#### Hey! My name is Bridger Tower and I am a designer and developer located in Salt Lake City, Utah. I am passionate about the balance of aesthetics and usability in software and websites.
+
+ <a aligh="left" href="https://btower.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:bridgertower@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/_brijr" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/brdgr" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/@code-craft" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a>  
+
+⚐ Based in Salt Lake City, UT
+
+ϟ Currently Frontend Web Dev at Tackle.io / Owner at ZionDesign.io
 
 
-<div id="badges">
-  <a href="https://linkedin.com/in/brdgr">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="http://devign.cc">
-    <img src="https://img.shields.io/badge/YouTube-blueviolet?&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/b98_io">
-    <img src="https://img.shields.io/badge/Twitter-blueviolet?&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<br>
-
-> Thanks for visiting! I'm Bridger and I am a designer turned developer. I am passionate about building useful and beautiful digital experiences and technology.
-
-## About Me: [bridger.info](https://bridger.info)
-
-At this link you will find a bit more about me and where I am from.
-
-## Portfolio: [btower.dev](https://btower.dev)
-
-This is my Front End dev portfolio!
-
-### :hammer_and_wrench: Languages and Tools
-
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript
-- Svelte
-- SvelteKit
-- React
-- Next.js
-- WordPress
-- Webflow
-- Figma
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="http://svelte.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/svelte.svg" alt="Svelte" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a>  <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="https://supabase.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/supabase.svg" alt="Supabase" width="25" height="25" /></a> <a href="http://sanity.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/sanity.svg" alt="Sanity" width="25" height="25" /></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijr&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,3 +20,4 @@ This is my Front End dev portfolio!
 
 ![Brijr's github stats](https://github-readme-stats.vercel.app/api?username=brijr&theme=midnight-purple&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brijr&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
