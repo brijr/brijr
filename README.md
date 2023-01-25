@@ -8,6 +8,7 @@
 ⚐ Based in Salt Lake City, UT
 
 ϟ Currently Frontend Web Dev at [Tackle.io](https://tackle.io)
+
 ϟ Also Owner at [ZionDesign.io](https://ziondesign.io)
 
 -> Resume at [read.cv/btower](https://read.cv/btower)
