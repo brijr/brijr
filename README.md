@@ -1,5 +1,5 @@
 # Bridger Tower
-### Front End Developer : Creative Technologist : Product Marketer : Brand Strategist
+### Front End Developer : Creative Technologist : Product Marketer : Brand Strategist : Passionate Designer
 
 #### Hey! My name is Bridger Tower and I am a designer and developer located in Salt Lake City, Utah. I am passionate about the balance of aesthetics and usability in software and websites.
 
