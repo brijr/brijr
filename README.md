@@ -7,7 +7,7 @@
 
 ⚐ Based in Salt Lake City, UT
 
-ϟ Currently Frontend Web Dev at [Tackle.io](https://tackle.io)
+ϟ Currently Design Engineer at [Ampry](https://ampry.com)
 
 ϟ Also Owner at [ZionDesign.io](https://ziondesign.io)
 
