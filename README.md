@@ -18,7 +18,6 @@
 
 ### :fire: My Stats
 
-![Brijr's github stats](https://github-readme-stats.vercel.app/api?username=brijr&theme=midnight-purple&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brijr&theme=midnight-purple&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 #### More info at [btower.dev](https://btower.dev) or [bridger.info](https://bridger.info)
