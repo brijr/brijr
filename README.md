@@ -2,4 +2,4 @@
 
 follow me `@bridgertower`
 
-go to my webiste at [bridgertower.com](https://bridgertower.com)
+go to my website at [bridger.cc](https://bridger.cc)
