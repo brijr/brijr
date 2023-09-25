@@ -2,4 +2,4 @@
 
 follow me `@brijr_`
 
-go to my website at [brijr.dev](https://brijr.dev)
+go to my website at [bridger.to](https://bridger.to)
