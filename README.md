@@ -1,8 +1,8 @@
 # Github of Bridger Tower 
 
-I'm a software designer and developer from Salt Lake City, Utah. I am passionate abouthe intersection of design and code. 
+I'm a software designer and developer from Salt Lake City, Utah. I am passionate about the intersection of design and code. I build artificial intelligence applications and marketing software at Alpine Codex, Ampry, and 9d8. 
 
-follow me `@bridgertower`
+Folloy me [@bridgertower](https://x.com/bridgertower)
 
 ### Current Technologies 
 
