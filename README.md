@@ -11,8 +11,8 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 
 ## Featured Products 
 
-- [WaveFinder](https://wavefinder.io)
-- [BuilderKit](https://builderkit.io)
+- [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
+- [BuilderKit](https://builderkit.io) :: Assisted content creation
 
 ## Current Technologies 
 
