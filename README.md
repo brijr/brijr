@@ -4,10 +4,10 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 
 Follow me on X at [bridgertower](https://x.com/bridgertower)
 
-### Current Technologies 
+## Current Technologies 
 
 - Next JS and React
 - PHP (WordPress and Laravel) 
 - Python and Langchain
 
-go to my website at [bridger.to](https://bridger.to)
+You can learn more about me at [bridger.to](https://bridger.to).
