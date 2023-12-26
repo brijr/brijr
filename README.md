@@ -6,8 +6,8 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 
 ## Featured OS Repositorires
 
-- [Fjord](https://github.com/9d8dev/fjord) -> Headless Wordpress with Next JS 
-- [Windpress](https://github.com/alpinecodex/windpress) -> Optimized Tailwind WordPress theme
+- [Fjord](https://github.com/9d8dev/fjord) * Headless Wordpress with Next JS 
+- [Windpress](https://github.com/alpinecodex/windpress) * Optimized Tailwind WordPress theme
 
 ## Featured Products 
 
