@@ -6,7 +6,8 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 
 ## Featured OS Repositorires
 
-- [Windpress](https://github.com/alpinecodex/windpress)
+- [Fjord](https://github.com/9d8dev/fjord) -> Headless Wordpress with Next JS 
+- [Windpress](https://github.com/alpinecodex/windpress) -> Optimized Tailwind WordPress theme
 
 ## Featured Products 
 
@@ -16,5 +17,6 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 ## Current Technologies 
 
 - Next JS and React
+- Tailwind CSS
 - PHP (WordPress and Laravel) 
 - Python and Langchain
