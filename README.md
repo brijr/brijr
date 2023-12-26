@@ -4,6 +4,11 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 
 Follow me on X at [bridgertower](https://x.com/bridgertower)
 
+## Featured Products 
+
+- [WaveFinder](https://wavefinder.io)
+- [BuilderKit](https://builderkit.io)
+
 ## Current Technologies 
 
 - Next JS and React
