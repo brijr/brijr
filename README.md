@@ -10,7 +10,7 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 
 - [Fjord](https://github.com/9d8dev/fjord) :: Headless Wordpress with Next JS 
 - [Windpress](https://github.com/alpinecodex/windpress) :: Optimized Tailwind WordPress theme
-- [Craft UI](https://github.com/9d8dev/craftui) :: Design system and component library for Next JS using Tailwind CSS
+- [Craft UI](https://github.com/9d8dev/craft-ui) :: Design system and component library for Next JS using Tailwind CSS
 
 ## Featured Products 
 
