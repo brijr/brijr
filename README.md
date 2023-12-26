@@ -1,6 +1,6 @@
-## Hello my name is Bridger Tower. I like to design and code. 
+# Github of Bridger Tower 
 
-I build marketing software at Alpine Codex, Ampry, and 9d8. 
+I'm a software designer and developer from Salt Lake City, Utah. I am passionate abouthe intersection of design and code. 
 
 follow me `@bridgertower`
 
