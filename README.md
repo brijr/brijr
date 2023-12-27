@@ -16,6 +16,8 @@ Follow me on X at [bridgertower](https://x.com/bridgertower)
 
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [BuilderKit](https://builderkit.io) :: Assisted content creation
+- [Router.so](https://router.so) :: Light-weight lead router
+- [Outr.io](https://outr.io) :: Deployable AI sales team
 
 ## Current Technologies 
 
