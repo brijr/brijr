@@ -4,7 +4,7 @@
 
 I'm a software designer and developer from Salt Lake City, Utah. I am passionate about the intersection of design and code. I build artificial intelligence applications and marketing software at Alpine Codex, Ampry, and 9d8. 
 
-> [Check out my portfolio here.](https://bridger.to)
+> Visit my website at [bridger.to](https://bridger.to)
 > 
 > Follow me on X at [bridgertower](https://x.com/bridgertower)
 
