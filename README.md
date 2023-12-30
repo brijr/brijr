@@ -1,4 +1,4 @@
-![cap](https://github.com/brijr/brijr/assets/57158102/dc02a85c-70fe-46eb-b0c2-ac955b748275)
+![cap-small](https://github.com/brijr/brijr/assets/57158102/06f320c3-4ee4-4277-8855-912b779eb10b)
 
 # Github of Bridger Tower
 
