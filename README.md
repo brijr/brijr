@@ -6,7 +6,7 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 
 - 🔗 Visit my website at [bridger.to](https://bridger.to)
 - 🔗 Follow me on X at [bridgertower](https://x.com/bridgertower)
-- 🔗 Watch my [YouTube Videos](https://youtube.com/@bridgertower)
+- 🔗 Watch my [YouTube](https://youtube.com/@bridgertower) videos
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/brdgr/)
 
 ## Featured OS Repositorires
