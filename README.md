@@ -11,6 +11,7 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 
 ## Featured OS Repositorires
 
+- [Components](https://components.bridger.to)
 - [Fjord](https://github.com/9d8dev/fjord) :: Headless Wordpress with Next JS 
 - [Windpress](https://github.com/alpinecodex/windpress) :: Optimized Tailwind WordPress theme
 - [Craft UI](https://github.com/9d8dev/craft-ui) :: Design system and component library for Next JS using Tailwind CSS
