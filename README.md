@@ -12,18 +12,12 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 - [brijr/components](https://components.bridger.to) :: Collection of nextjs components built using craft ui, shadcn/ui, typescript, and tailwind css.
 - [brijr/craft](https://github.com/brijr/craft) :: Design system and component library for Next JS using Tailwind CSS
 - [brijr/starter](https://starter.bridger.to) :: Next JS App Starter template
-- [9d8dev/next-wp](https://github.com/9d8dev/next-wp) :: Headless Wordpress with Next JS 
+- [9d8dev/next-wp](https://github.com/9d8dev/next-wp) :: Headless Wordpress with Next JS
+- [routerso/router](https://github.com/routerso/router) :: Form Backend for marketing minded devs
 
 ## Featured Products 
 
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [BuilderKit](https://builderkit.io) :: Assisted content creation
-- [Router.so](https://router.so) :: Light-weight lead router
 - [Outr.io](https://outr.io) :: Deployable AI sales team
-
-## Current Technologies 
-
-- Next JS and React
-- Tailwind CSS
-- PHP (WordPress and Laravel) 
-- Python and Langchain
+  
