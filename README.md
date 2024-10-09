@@ -19,5 +19,5 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [BuilderKit](https://builderkit.io) :: Assisted content creation
-- [Outr.io](https://outr.io) :: Deployable AI sales team
+- [Outr](https://outr.io) :: Deployable AI sales team
   
