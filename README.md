@@ -15,8 +15,3 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [BuilderKit](https://builderkit.io) :: Assisted content creation
 - [Outr](https://outr.io) :: Deployable AI sales team
-
-## Socials 
-
-- [`X`](https://x.com/bridgertower)
-- [`YouTube`](https://youtube.com/@bridgertower)
