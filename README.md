@@ -2,11 +2,6 @@
 
 I'm a software designer and developer from Salt Lake City, Utah. I am passionate about the intersection of design and code. I build artificial intelligence applications and marketing software at [Alpine Codex](https://alpine.dev), [Ampry](https://ampry.com), and [9d8](https://9d8.dev). I design at [Studio Mojave](https://studiomojave.com).
 
-- 🔗 Visit my website at b[ridger.to
-- 🔗 Follow me on X at b[ridgertower
-- 🔗 Watch my Y[ouTube ](https://youtube.com/@bridgertower)videos
-- 🔗 Connect with me on L[inkedIn
-
 ## Featured OS Repositories
 
 - [brijr/components](https://components.bridger.to) :: Collection of next.js components built using craft ui, shadcn/ui, typescript, and tailwind css.
@@ -20,3 +15,8 @@ I'm a software designer and developer from Salt Lake City, Utah. I am passionate
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [BuilderKit](https://builderkit.io) :: Assisted content creation
 - [Outr](https://outr.io) :: Deployable AI sales team
+
+## Socials 
+
+- [`X`](https://x.com/bridgertower)
+- [`YouTube`](https://youtube.com/@bridgertower)
