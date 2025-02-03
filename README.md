@@ -1,1 +1,1 @@
-🏜️ DO THE [WORK](https://bridger.to/work)
+DO THE [WORK](https://bridger.to/work)
