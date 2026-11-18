@@ -1,4 +1,4 @@
-applied design ✴︎ applied AI
+Applied AI and Design
 
 Designer and software engineer focused on how design shapes product, AI, marketing, and human-computer interaction. I bring a background in marketing and branding to building thoughtful software that solves real problems and helps products grow.
 
